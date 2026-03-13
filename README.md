@@ -137,6 +137,19 @@ Then: **Kernel → Restart & Run All**
 3. **Sector heterogeneity:**
    Energy and Financial Services show the largest post-peak reversals (Δ ≈ +0.55–0.68 pp/day);
    defensive sectors (Consumer Defensive, Utilities) show the smallest responses.
+   
+   ## Results
+
+### S&P 500 Reaction Around VIX Peaks
+![AAR](figures/fig1_aar_spx.png)
+
+![CAR](figures/fig2_car_spx.png)
+
+### Volatility-Sorted Portfolios
+![Size Proxy](figures/fig3_car_size_proxy.png)
+
+### Sector Responses
+![Sector Analysis](figures/fig4_car_sectors.png)
 
 ---
 
