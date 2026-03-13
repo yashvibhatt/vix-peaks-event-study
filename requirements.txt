@@ -1,0 +1,14 @@
+# Core data & analysis
+pandas
+numpy
+scipy
+
+# Financial data  (v0.2.x is broken against the current Yahoo Finance API)
+yfinance>=0.2.50
+
+# Visualisation
+matplotlib
+
+# Notebook environment
+jupyter
+ipykernel
